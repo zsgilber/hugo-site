@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:zsgilber/zsgilber.github.io.git
 	branch = master
+[submodule "themes/after-dark"]
+	path = themes/after-dark
+	url = https://git.habd.as/comfusion/after-dark.git
